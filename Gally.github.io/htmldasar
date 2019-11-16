@@ -1,0 +1,53 @@
+< html >
+< head >
+< title > Halaman TKJ 2 </ title >
+</ head >
+< tubuh >
+< h1 > Data SD </ h1 >
+< H2 > < a  href = " Gambar Gally.html " > Kembali </ a > </ h2 >
+< table  border = " 10 " >
+	< tr >
+		< td > < img  src = " sd.jpg "  width = " 200 "  height = " 200 " > </ td >
+		< td >
+			< tabel >
+				< tr >
+					< td > Nama Depan </ td >
+					< td >: Gally Ilham  </ td >
+				</ tr >
+				< tr >
+					< td > Nama Belakang </ td >
+					< td >: Garzhya </ td >
+				</ tr >
+				< tr >
+					< td > Alamat </ td >
+					< td >: Jl Rambutan,ds.pelem </ td >
+				</ tr >
+			</ table >
+		</ td >
+	</ tr >
+	< tr >
+		< td  colspan = " 2 " > < b > Riwayat Pendidikan: </ b > </ td >
+	</ tr >
+	< tr >
+		< td > SD </ td >
+		< td >: SDN Kudu 1 </ td >
+	</ tr >
+	< tr >
+		< td > SMP </ td >
+		< td >: SMPN 4 KERTOSONO </ td >
+	</ tr >
+	< tr >
+		< td  colspan = " 2 " > < b > Akun Sosial Media: </ b > </ td >
+	</ tr >
+	< tr >
+		< td > Facebook
+		< td >: Gally Ilham </ td >
+	</ tr >
+	< tr >
+		< td > Instagram </ td >
+		< td >: @ gally_ilham </ td >
+	</ tr >
+</ table >
+
+</ body >
+</ html >
